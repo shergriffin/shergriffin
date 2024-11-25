@@ -4,7 +4,7 @@ Welcome to the Governance section of The Compassion Collective (TCC). This folde
 
 ## This folder includes:
 - [**Mission and Values**](./mission-and-values.md): The guiding principles that inspire and shape TCC’s work.
-- [**Shared Agreements**](./shared-agreements.md): The principles and values that guide our interactions and collaborations.
+- [**Shared Agreements**](./shared-agreements/shared-agreements.md): The principles and values that guide our interactions and collaborations.
 - [**Decision-Making Processes**](./decision-making/consent-based-decision-making.md): Frameworks for consent-based and inclusive governance.
 
 ## Why Governance Matters
@@ -18,4 +18,5 @@ By openly sharing these documents, we invite others to learn from and build upon
 - **Contribute:** Share feedback and ideas to refine and evolve these practices.
 
 For questions or to suggest improvements, contact us at [sher@thecompassioncollective.earth](mailto:sher@thecompassioncollective.earth).
+
 

@@ -1,19 +1,20 @@
 # Governance Documents
 
-Welcome to the governance hub of The Compassion Collective (TCC). This folder serves as a cornerstone for how we foster belonging, empowerment, and inclusion through compassionate and transparent decision-making.
+Welcome to the Governance section of The Compassion Collective (TCC). This folder contains foundational documents that guide how we collaborate, make decisions, and uphold our shared mission and values.
 
-## Contents
-This folder includes:
+## This folder includes:
+- **Mission and Values:** The guiding principles that inspire and shape TCC’s work.
 - **Shared Agreements:** The principles and values that guide our interactions and collaborations.
 - **Decision-Making Processes:** Frameworks for consent-based and inclusive governance.
-- **Codes of Conduct:** Guidelines for creating a safe and respectful community space.
 
 ## Why Governance Matters
-Governance at TCC is more than rules—it's a living framework that nurtures collaboration and ensures every voice is heard. By openly sharing these documents, we aim to inspire and support others in building equitable systems of their own.
+Governance is the backbone of The Compassion Collective. It ensures our practices are transparent, equitable, and aligned with our mission of fostering belonging and compassion.
+
+By openly sharing these documents, we invite others to learn from and build upon our work, helping to create compassionate systems and communities everywhere.
 
 ## How to Use These Documents
-- **Learn:** Explore how TCC operates and adapts to the needs of our community.
-- **Adopt:** Use our frameworks as a foundation for your own projects or communities.
-- **Contribute:** Suggest improvements or share your insights to help refine our processes.
+- **Learn:** Understand the foundations of TCC’s collaborative culture.
+- **Adopt:** Use our frameworks as inspiration for your own community or project.
+- **Contribute:** Share feedback and ideas to refine and evolve these practices.
 
-For questions or contributions, feel free to [contact us](mailto:sher@thecompassioncollective.earth).
+For questions or to suggest improvements, contact us at [sher@thecompassioncollective.earth](mailto:sher@thecompassioncollective.earth).
